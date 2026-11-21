@@ -1,0 +1,14 @@
+{
+  "id": "samyakrajbayar/us-tornado-catalog-analysis",
+  "title": "U.S. Tornado Catalog 1950-2024 Analysis",
+  "code_file": "notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "samyakrajbayar/us-tornado-catalog"
+  ]
+}
