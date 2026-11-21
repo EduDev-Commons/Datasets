@@ -1,0 +1,14 @@
+{
+  "id": "samyakrajbayar/art-institute-collection-analysis",
+  "title": "Art Institute of Chicago Collection Analysis",
+  "code_file": "notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "samyakrajbayar/art-institute-collection"
+  ]
+}
